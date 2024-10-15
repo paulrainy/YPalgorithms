@@ -1,3 +1,5 @@
 /video
 *.mp4
 /venv
+.idea
+__pycache__
